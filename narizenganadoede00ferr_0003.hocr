@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./narizenganadoede00ferr_0003.png"; bbox 0 0 1495 2608; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 389 1211 1110 1396">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 389 1211 1110 1396">
+     <span class='ocr_line' id='line_1_1' title="bbox 389 1211 1110 1260; baseline 0 -11"><span class='ocrx_word' id='word_1_1' title='bbox 389 1211 581 1260; x_wconf 65' lang='lat' dir='ltr'>Digitized</span> <span class='ocrx_word' id='word_1_2' title='bbox 602 1211 651 1260; x_wconf 83' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_3' title='bbox 668 1211 736 1250; x_wconf 74' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_4' title='bbox 758 1211 925 1250; x_wconf 69' lang='lat' dir='ltr'>internet</span> <span class='ocrx_word' id='word_1_5' title='bbox 941 1211 1110 1250; x_wconf 73' lang='lat' dir='ltr'><strong>Archive</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 461 1279 1034 1328; baseline 0 -11"><span class='ocrx_word' id='word_1_6' title='bbox 461 1279 495 1317; x_wconf 80' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_7' title='bbox 514 1280 625 1318; x_wconf 81' lang='lat'>2009</span> <span class='ocrx_word' id='word_1_8' title='bbox 643 1279 732 1318; x_wconf 73' lang='lat' dir='ltr'>with</span> <span class='ocrx_word' id='word_1_9' title='bbox 751 1279 917 1328; x_wconf 73' lang='lat' dir='ltr'>fundinq</span> <span class='ocrx_word' id='word_1_10' title='bbox 936 1279 1034 1318; x_wconf 75' lang='lat' dir='ltr'>from</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 516 1347 981 1396; baseline 0.002 -11"><span class='ocrx_word' id='word_1_11' title='bbox 516 1347 738 1396; x_wconf 77' lang='lat' dir='ltr'>University</span> <span class='ocrx_word' id='word_1_12' title='bbox 756 1347 796 1386; x_wconf 80' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_13' title='bbox 812 1347 981 1386; x_wconf 76' lang='lat' dir='ltr'>Toronto</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 125 2446 1374 2495">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 125 2446 1374 2495">
+     <span class='ocr_line' id='line_1_4' title="bbox 125 2446 1374 2495; baseline 0.001 -11"><span class='ocrx_word' id='word_1_14' title='bbox 125 2446 1374 2495; x_wconf 67' lang='lat' dir='ltr'>http:sswwwarchiveorqsdetailssnarizenqanadoedeOOferr</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
